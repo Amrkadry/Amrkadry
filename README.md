@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 - 💻 **Red Team Consultant at Inovasys**
-- 🔐 **Security Researcher at HackerOne**
+- 🔐 **Bug Hunter at HackerOne**
 - 🎓 **Graduated from Mansoura University** (Electronics and Communications Engineering, 2024)
 
 
