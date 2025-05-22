@@ -37,7 +37,7 @@
 
 ## 📦 My Writeups
   
-Check out the detailed write-up on **[Medium](https://0d-amr.medium.com)** for more insights into how the tool works and how to leverage it in real-world pentests.
+Check my write-ups here**[Medium](https://0d-amr.medium.com)**
 
 ---
 
