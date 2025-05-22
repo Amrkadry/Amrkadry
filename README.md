@@ -37,7 +37,7 @@
 
 ## 📦 My Writeups
   
-Check my write-ups here**[Medium](https://0d-amr.medium.com)**
+Check my write-ups here **[Medium](https://0d-amr.medium.com)**
 
 ---
 
