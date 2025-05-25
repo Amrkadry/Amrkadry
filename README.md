@@ -30,7 +30,7 @@
 - **Mobile Penetration Testing**
 - **Network Penetration Testing**
 - **Automation**: Creating scripts for bug hunting & CVE exploitation
-- **Operating Systems**: Linux (Kali, Ubuntu), Windows Server
+- **Operating Systems**: Linux, Windows Server
 - **OSINT**
 
 ---
