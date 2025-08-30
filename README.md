@@ -29,6 +29,7 @@
 - **Web Penetration Testing**
 - **Mobile Penetration Testing**
 - **Network Penetration Testing**
+- **ATM/ITM Penetration Testing**
 - **Automation**: Creating scripts for bug hunting & CVE exploitation
 - **Operating Systems**: Linux, Windows Server
 - **OSINT**
