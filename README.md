@@ -16,23 +16,46 @@
   
 ## 🚀 About Me
 
-- 💻 **Penetration Tester**
-- 🔐 **Bug Hunter at HackerOne**
-- 🎓 **Graduated from Mansoura University** (Electronics and Communications Engineering, 2024)
+- 🛡️ **Red Team Services Consultant** at [Inovasys](https://inovasys.com) (May 2025 – Present)
+- 🔐 **Security Researcher / Bug Hunter** at [HackerOne](https://hackerone.com/0d_amrr) (Oct 2023 – Present)
+- 🏦 Focused on securing high-value assets in **banking, fintech** and other security-sensitive industries
+- 📚 Currently studying for **CRTO** & **CRTL**
+- 🎓 **Mansoura University** – Electronics and Communications Engineering (2019 – 2024)
 
+---
+
+## 🐞 CVEs Assigned
+
+| CVE | Product | Vulnerability | Severity | Advisory |
+|-----|---------|---------------|----------|----------|
+| [CVE-2026-119446](https://www.cve.org/CVERecord?id=CVE-2026-119446) | NervesHub (`nerves_hub_web`) 2.5.0 – 2.5.2 | Session fixation in CLI login flow lets an unauthenticated attacker obtain a user's API token (CWE-384) | 🔴 Critical – 9.4 (CVSS 4.0) | [GHSA-9vr9-463q-46qp](https://github.com/nerves-hub/nerves_hub_web/security/advisories/GHSA-9vr9-463q-46qp) |
+| [CVE-2025-62348](https://www.cve.org/CVERecord?id=CVE-2025-62348) | SaltStack Salt < 3006.17 / 3007.9 | Unsafe YAML loader in the `junos` execution module leading to code execution (CWE-94) | 🟠 High – 7.8 (CVSS 3.1) | [Salt 3006.17 release notes](https://docs.saltproject.io/en/latest/topics/releases/3006.17.html) |
 
 ---
 
 ## 🔧 Technologies & Skills
 
-- **Programming/Scripting**: JavaScript, Python, Bash
-- **Web Penetration Testing**
-- **Mobile Penetration Testing**
-- **Network Penetration Testing**
+- **Web & API Penetration Testing** – REST, SOAP, GraphQL; authentication & authorization bypass, injection, business logic flaws, WAF bypass
+- **Mobile Penetration Testing** – Android/iOS static & dynamic analysis, SSL pinning & root/jailbreak bypass (Frida, JADX, Ghidra, objection, MobSF)
+- **Network & Active Directory Penetration Testing / Red Teaming**
 - **ATM/ITM Penetration Testing**
-- **Automation**: Creating scripts for bug hunting & CVE exploitation
+- **Source Code Review** – manual & tool-assisted, with a focus on .NET
+- **AI / LLM Security** – LLMs, MCP servers, chatbots, RAG pipelines and AI agents
+- **OSINT & Reconnaissance**
+- **Automation** – Python, Bash, JavaScript; tooling for bug hunting & CVE exploitation, AI-assisted offensive workflows
 - **Operating Systems**: Linux, Windows Server
-- **OSINT**
+
+---
+
+## 🛠️ Featured Projects
+
+- [**moraa-ai-offsec-agent**](https://github.com/Amrkadry/moraa-ai-offsec-agent) – Claude Code skill pack that turns an AI agent into a disciplined offensive-security operator (bug bounty + internal network/AD pentesting)
+- [**dotnet-codereview-framework**](https://github.com/Amrkadry/dotnet-codereview-framework) – evidence-first code review & security analysis framework for legacy ASP.NET and modern ASP.NET Core
+- [**Amrs-ATM-Assessment**](https://github.com/Amrkadry/Amrs-ATM-Assessment) – read-only PowerShell collector for authorised security assessments of Windows-based ATMs (NCR APTRA, XFS)
+- [**NDC-Parser**](https://github.com/Amrkadry/NDC-Parser) – analyze and edit NDC protocol messages captured from ATM traffic
+- [**F5-BIG-IP-Cookie-Decoder**](https://github.com/Amrkadry/F5-BIG-IP-Cookie-Decoder) – decode/encode F5 BIG-IP persistence cookies to reveal backend IP:port
+- [**SNMP-Scanner**](https://github.com/Amrkadry/SNMP-Scanner) – bulk SNMP (UDP/161) checks and walks across multiple targets
+- [**Android-Regex-Cheat-Sheet**](https://github.com/Amrkadry/Android-Regex-Cheat-Sheet) – regex collection for fast static analysis of decompiled APKs
 
 ---
 
@@ -44,9 +67,11 @@ Check my write-ups here **[Medium](https://0d-amr.medium.com)**
 
 ## 🏆 Achievements
 
-- Acknowledged by over 50 companies including Mozilla, CrowdStrike, Canva, Vimeo, and others
-- Ranked 1st on Private Program on H1
-- CTF Player (Web, OSINT, Mobile) 
+- 🐞 **2 CVEs** assigned (NervesHub – Critical, SaltStack Salt – High)
+- Acknowledged by **50+ companies** including Mozilla, CrowdStrike, Canva, Vimeo, and others
+- Ranked **1st** on a Private Program on HackerOne
+- CTF Player (Web, OSINT, Mobile)
+
 ---
 
 <div align="center">
