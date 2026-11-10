@@ -45,14 +45,6 @@
 
 ---
 
-## 🛠️ Projects
-
-- [**dotnet-codereview-framework**](https://github.com/Amrkadry/dotnet-codereview-framework) – evidence-first code review framework for .NET and legacy ASP.NET
-- [**Amrs-ATM-Assessment**](https://github.com/Amrkadry/Amrs-ATM-Assessment) – read-only assessment toolkit for XFS-based Windows ATMs
-- [**Android-Regex-Cheat-Sheet**](https://github.com/Amrkadry/Android-Regex-Cheat-Sheet) – regex library for static analysis of decompiled APKs
-
----
-
 ## 📜 Certifications
 
 - Hack The Box **CPTS**
